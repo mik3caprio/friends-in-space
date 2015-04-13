@@ -1,7 +1,7 @@
 Template.registerHelper('tweetToUser', function(twitterScreenName){
 
     var urls = [
-        "text=Hello @"+twitterScreenName+" ! We shared an orbit on",
+        "text=Hello.. @"+twitterScreenName+" ! We shared an orbit on",
         "url=http://www.friendsinspace.org",
         "hashtags=friendsinspace"
     ];
