@@ -4,13 +4,6 @@ Starting from Accurat's FriendsInSpace app http://www.friendsinspace.org/ and fr
 
 https://2015.spaceappschallenge.org/project/friendsinspace---international-team/
 
-
-#Friends In Space
-
-Friends in Space is the first social network that extends beyond Earth;
-a 6 months-long open window to make new friends from all over the world and join astronaut Samantha Cristoforetti
-in her expedition to the International Space Station.
-
 ##Installation
 
 This project is build using MeteorJS 1.0. To install meteor please see [www.meteor.com](http://www.meteor.com)
@@ -36,7 +29,6 @@ With a distributed environment, each instance of meteor needs to be configured t
 The Twitter Access Token and Twitter Access Token Secret are required to request and keep updated the Sam's Twitter Feed.
 
 ##Run
-
 
 The current version is implemented to start from a clean state of Orbits. This means that every time you start the application
 the ``FIS.Orbits`` object request to clean all the orbits from the database, and recreate all the orbits until now.
