@@ -4,6 +4,10 @@ Starting from Accurat's FriendsInSpace app http://www.friendsinspace.org/ and fr
 
 https://2015.spaceappschallenge.org/project/friendsinspace---international-team/
 
+
+--- TEST ---
+
+
 ##Installation
 
 This project is build using MeteorJS 1.0. To install meteor please see [www.meteor.com](http://www.meteor.com)
