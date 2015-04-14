@@ -5,8 +5,6 @@ Starting from Accurat's FriendsInSpace app http://www.friendsinspace.org/ and fr
 https://2015.spaceappschallenge.org/project/friendsinspace---international-team/
 
 
---- TEST ---
-
 
 ##Installation
 
