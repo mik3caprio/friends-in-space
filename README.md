@@ -1,3 +1,10 @@
+#Friends In Space - International Team - Friends in Hight Places Challenge - Nasa's SpaceApps Challenge
+
+Starting from Accurat's FriendsInSpace app http://www.friendsinspace.org/ and from their code : https://github.com/accurat/friends-in-space that we forked here : https://github.com/pergjergji/friends-in-space We will try to add new cool feutures to the FriendsInSpace App. If you would like to join the project, you are welcome. 
+
+https://2015.spaceappschallenge.org/project/friendsinspace---international-team/
+
+
 #Friends In Space
 
 Friends in Space is the first social network that extends beyond Earth;
